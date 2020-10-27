@@ -9,7 +9,7 @@ A data science project to predict rossman daily sales for up to six weeks in adv
 
 This dataset was originally used in a [Kaggle competition](https://www.kaggle.com/c/rossmann-store-sales) and it was provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. However, here it was used to create a data science project.  This project is part of the [Seja um Data Scientist](https://sejaumdatascientist.com/como-ser-um-data-scientist/) (*Be a Data Scientist*) course. It's a course that aims to prepare the data scientist for the process of a data science project.
 
-### Data Field:
+### Features
 
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
